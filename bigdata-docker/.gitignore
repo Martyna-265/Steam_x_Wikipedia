@@ -1,5 +1,6 @@
+# sterownik PostgreSQL - pobierany recznie (krok 3 w README)
 jars/*.jar
+
+# pliki do wczytania przez NiFi
 data/input/*
 !data/input/.gitkeep
-.ipynb_checkpoints/
-__pycache__/

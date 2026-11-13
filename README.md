@@ -26,5 +26,5 @@ Celem projektu jest zbudowanie systemu do analizy recenzji gier komputerowych pu
 
 ## Autorzy:
 
-- Aleksandra Zawadka – [@Ola-zaw](https://github.com/Ola-zaw)
-- Martyna Sadowska – [@Martyna-265](https://github.com/Martyna-265)
+- [Aleksandra Zawadka](https://github.com/Ola-zaw)
+- [Martyna Sadowska](https://github.com/Martyna-265)

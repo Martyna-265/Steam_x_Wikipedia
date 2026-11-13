@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Edytory i system
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
