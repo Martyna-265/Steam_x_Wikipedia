@@ -2,7 +2,7 @@
 
 **System analizy recenzji gier na platformie Steam w kontekście zainteresowania w Wikipedii**
 
-Projekt zaliczeniowy na przedmiot *Składowanie danych w systemach Big Data*, Politechnika Warszawska, 2026.
+Projekt realizowany w ramach przedmiotu Składowanie danych w systemach Big Data, Politechnika Warszawska, 2026.
 
 ## Cel projektu
 
@@ -24,7 +24,7 @@ Celem projektu jest zbudowanie systemu do analizy recenzji gier komputerowych pu
 - [`bigdata-docker/`](bigdata-docker/) – środowisko Docker (Hadoop, Hive, Spark, Kafka, NiFi, HBase) z instrukcją uruchomienia
 - [`scripts/`](scripts/) – skrypty w Pythonie do pobierania i testowania danych
 
-## Autorki
+## Autorzy:
 
 - Aleksandra Zawadka – [@Ola-zaw](https://github.com/Ola-zaw)
 - Martyna Sadowska – [@Martyna-265](https://github.com/Martyna-265)
