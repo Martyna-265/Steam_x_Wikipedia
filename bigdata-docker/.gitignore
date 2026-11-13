@@ -1,0 +1,5 @@
+jars/*.jar
+data/input/*
+!data/input/.gitkeep
+.ipynb_checkpoints/
+__pycache__/
