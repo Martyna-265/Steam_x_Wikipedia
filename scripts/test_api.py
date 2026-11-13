@@ -18,6 +18,7 @@ GAMES = [
     ("Overwatch 2",              2357570, 2023, "review bomb", ["Overwatch_(2023_video_game)", "Overwatch_2"]),
     ("Total War: Warhammer III", 1142710, 2022, "review bomb", ["Total_War:_Warhammer_III"]),
     ("Apex Legends",             1172470, 2020, "review bomb", ["Apex_Legends"]),
+    ("Battlefield 2042",         1517290, 2021, "review bomb", ["Battlefield_2042"]),
     # grupa kontrolna
     ("Baldur's Gate 3",          1086940, 2023, "kontrolna",   ["Baldur's_Gate_3"]),
     ("Elden Ring",               1245620, 2022, "kontrolna",   ["Elden_Ring"]),
